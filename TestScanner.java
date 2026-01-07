@@ -2,6 +2,7 @@ public class TestScanner {
 
     // Unused variable -> Maintainability issue
     private int unusedNumber;
+    int x = 5;
 
     public static void main(String[] args) {
         TestScanner ts = new TestScanner();
